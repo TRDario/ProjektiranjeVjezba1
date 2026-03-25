@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     internal class NewClass
     {
+        public static int metoda()
+        {
+            
+        }
     }
 }
