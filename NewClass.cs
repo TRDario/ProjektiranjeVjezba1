@@ -8,6 +8,6 @@ namespace ConsoleApp1
 {
     internal class NewClass
     {
-        public void metoda() { }
+        public void method() { }
     }
 }
